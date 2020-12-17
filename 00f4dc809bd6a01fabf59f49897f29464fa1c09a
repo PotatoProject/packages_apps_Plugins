@@ -1,0 +1,55 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "68f824ae_aee78dc0",
+        "filename": "AospPanel/src/co/potatoproject/plugin/volume/aosp/VolumeDialogImpl.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 931,
+      "author": {
+        "id": 1000004
+      },
+      "writtenOn": "2020-12-17T16:27:09Z",
+      "side": 1,
+      "message": "tab",
+      "revId": "00f4dc809bd6a01fabf59f49897f29464fa1c09a",
+      "serverId": "8720d348-3d66-43e6-b480-1d69039ac554",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "9be95392_6252688f",
+        "filename": "CompactPanel/src/co/potatoproject/plugin/volume/compact/VolumeDialogImpl.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 909,
+      "author": {
+        "id": 1000004
+      },
+      "writtenOn": "2020-12-17T16:27:09Z",
+      "side": 1,
+      "message": "tab",
+      "revId": "00f4dc809bd6a01fabf59f49897f29464fa1c09a",
+      "serverId": "8720d348-3d66-43e6-b480-1d69039ac554",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "35e4f8f5_3f65a43d",
+        "filename": "CompactPanel/src/co/potatoproject/plugin/volume/compact/VolumeDialogImpl.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 1009,
+      "author": {
+        "id": 1000004
+      },
+      "writtenOn": "2020-12-17T16:27:09Z",
+      "side": 1,
+      "message": "tab",
+      "revId": "00f4dc809bd6a01fabf59f49897f29464fa1c09a",
+      "serverId": "8720d348-3d66-43e6-b480-1d69039ac554",
+      "unresolved": true
+    }
+  ]
+}
