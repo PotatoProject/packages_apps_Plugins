@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "4da3f7bb_df824c1f",
+        "filename": "AospPanel/src/co/potatoproject/plugin/volume/aosp/VolumeDialogImpl.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 571,
+      "author": {
+        "id": 1000039
+      },
+      "writtenOn": "2020-12-22T09:31:13Z",
+      "side": 1,
+      "message": "might change the name to something that describes the method better, like shouldShowNotificationStream",
+      "revId": "f4a1cd757be428ddd9711ff503727678ed82e401",
+      "serverId": "8720d348-3d66-43e6-b480-1d69039ac554",
+      "unresolved": true
+    }
+  ]
+}
